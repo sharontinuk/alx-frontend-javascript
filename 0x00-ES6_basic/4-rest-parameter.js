@@ -1,1 +1,3 @@
-bff bnm,.fnbfm 
+export default function returnHowManyArguments(...args) {
+  return args.length;
+}
