@@ -1,1 +1,9 @@
-dfmh,b fm, j.vk/nb vnm,
+export default function getBudgetObject(income, gdp, capita) {
+  const budget = {
+    income,
+    gdp,
+    capita,
+  };
+
+  return budget;
+}
