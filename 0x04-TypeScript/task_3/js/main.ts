@@ -1,1 +1,1 @@
-qweert
+'use strict';
